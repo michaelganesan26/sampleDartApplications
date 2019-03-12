@@ -12,7 +12,9 @@
     "testassert": "nodemon --exec dart --enable-asserts ./bin/testAssert.dart",
     "testset": "nodemon --exec dart ./bin/testset.dart",
     "testmap": "nodemon --exec dart ./bin/testmap.dart",
-    "testclass": "nodemon --exec dart --enable-asserts ./bin/testclass.dart"
+    "testclass": "nodemon --exec dart --enable-asserts ./bin/testclass.dart",
+    "testnumbers": "nodemon --exec dart --enable-asserts ./bin/testNumbers.dart",
+    "testjson": "nodemon --exec dart --enable-asserts ./bin/testjsonconvert.dart"
   },
   "keywords": [],
   "author": "",
